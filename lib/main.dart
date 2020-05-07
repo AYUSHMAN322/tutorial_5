@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('Joker.mp3');
+                  player.play('1.mp3');
                 },
               ),
             ),
@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('DekhteDekhte.mp3');
+                  player.play('2.mp3');
                 },
               ),
             ),
@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('DoYouKnow.mp3');
+                  player.play('3.mp3');
                 },
               ),
             ),
@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('HappyBirthday.mp3');
+                  player.play('4.mp3');
                 },
               ),
             ),
@@ -74,7 +74,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('LetMeLoveYou.mp3');
+                  player.play('5.mp3');
                 },
               ),
             ),
@@ -86,7 +86,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('Perfect.mp3');
+                  player.play('6.mp3');
                 },
               ),
             ),
@@ -98,7 +98,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('ShapeofYou.mp3');
+                  player.play('7.mp3');
                 },
               ),
             ),
@@ -110,7 +110,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 onPressed: () {
                   final player = AudioCache();
-                  player.play('TuDuaHaiDua.mp3');
+                  player.play('8.mp3');
                 },
               ),
             ),
